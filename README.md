@@ -52,6 +52,7 @@ Features:
 - Visual storytelling to help stakeholders make data-driven lending and marketing decisions
 - Dashboard Interactions <a href = "https://github.com/ByteCrafty/Banking-Domain-Analysis-and-Dashboard/blob/main/Banking%20Domain%20Analysis%20Power%20BI.pbix">View Dashboard</a>
 - Dashboard Interactions <a href = "https://github.com/ByteCrafty/Banking-Domain-Analysis-and-Dashboard/blob/main/Banking%20Domain%20Analysis%20Power%20BI%20dashboard.pdf">View Dashboard</a>
+- Screenshot of Dashboard <a href = "https://github.com/ByteCrafty/Banking-Domain-Analysis-and-Dashboard/commit/ff5dd5071a8a9375c56954fbf2f93f97f2629959">Dashboard Screenshot</a>
 
 ## Key Insights
 - Europeans form the largest customer group (~44%)
