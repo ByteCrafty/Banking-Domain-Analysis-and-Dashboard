@@ -54,10 +54,17 @@ Features:
 - Dashboard Interactions <a href = "https://github.com/ByteCrafty/Banking-Domain-Analysis-and-Dashboard/blob/main/Banking%20Domain%20Analysis%20Power%20BI%20dashboard.pdf">View Dashboard</a>
 - Screenshot of Dashboard <a href = "https://github.com/ByteCrafty/Banking-Domain-Analysis-and-Dashboard/commit/ff5dd5071a8a9375c56954fbf2f93f97f2629959">Dashboard Screenshot</a>
 
-## Key Insights
+## Project Insights
 - Europeans form the largest customer group (~44%)
 - Medium-income customers are the majority (~51%)
 - 64% hold only one credit card
 - High Fee Structure customers make up ~49%
 - Jade loyalty tier is most common
 
+## Final Conclusion
+Through this project, we successfully performed Exploratory Data Analysis (EDA) on a simulated banking customer dataset and developed an interactive Power BI dashboard to transform raw data into actionable business insights.
+- The EDA provided a clear understanding of customer demographics, financial behavior, and risk profiles.
+- Statistical analysis and visualizations helped uncover relationships between income, deposits, loans, and loyalty tiers.
+- The Power BI dashboard enabled stakeholders to interact with the data, filter by various parameters, and monitor KPIs in real time.
+- Insights from the analysis can guide risk-based lending, targeted marketing campaigns, and customer retention strategies.
+Overall, the project demonstrates end-to-end analytical capability — from data exploration and feature engineering to business-oriented dashboard development — which can be directly applied in real-world banking analytics scenarios.
