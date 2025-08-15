@@ -16,7 +16,7 @@ The analysis identifies risk patterns, revenue drivers, and customer segments to
 ## Dataset
 Source: 
 - <a href = "https://github.com/ByteCrafty/Banking-Domain-Analysis-and-Dashboard/blob/main/Banking%20(1).csv">Dataset</a>
-Shape: ~3,000 rows × 25 columns
+- Shape: ~3,000 rows × 25 columns
 Features:
 - Demographics: Gender, Nationality, Occupation
 - Financials: Estimated Income, Loans, Deposits, Credit Card Balance
